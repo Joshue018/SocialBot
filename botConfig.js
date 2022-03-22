@@ -1,9 +1,9 @@
 module.exports = {
-    token: "OTUzMTUyNjM0NTY5NzU2NzUy.YjAakA.q69MoQGeigT9d42mPtU1HkLHiOg",
+    token: "OTU1NjkwNjYzMjQzMDM0NjQ0.YjlWSQ.UJI5WV6HZxGI7jbN6RnTk1OeUWY",
     prefix: "pls",
     admins: [
         "917687511281729556"
 ],
     debug: true,
-    countChannel: "countChannelID"
+    countChannel: "942237114349781003"
 };
